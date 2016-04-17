@@ -1,8 +1,18 @@
-* README  **react-webpack starter kit with babel6**
+# README  **react-webpack starter kit with babel6**
 
 
-** usage
+**usage**
+clone project
 ```
   git clone https://github.com/forclan/react-babel6-webpack.git
-  npm install
+```
+
+install dependency
+```
+  npm instal
+```
+
+use http-server
+```
+http-server
 ```
